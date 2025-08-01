@@ -22,7 +22,7 @@ body {
 .iframe {
   width: 2000px;
   border-radius: 10px;
-  margin: 15px 0;
+  margin: 5px;
 }
 
 p {
@@ -34,7 +34,7 @@ button {
   background: #ad1457;
   color: white;
   border: none;
-  padding: 10px 20px;
+  padding: 40px 60px;
   border-radius: 20px;
   font-size: 14px;
   cursor: pointer;
